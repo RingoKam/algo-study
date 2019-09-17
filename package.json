@@ -1,0 +1,25 @@
+{
+  "name": "algo-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RingoKam/algo-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RingoKam/algo-study/issues"
+  },
+  "homepage": "https://github.com/RingoKam/algo-study#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18"
+  }
+}
